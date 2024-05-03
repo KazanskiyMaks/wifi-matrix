@@ -1,0 +1,6 @@
+Pinout:  
+VCC - VCC  
+GND - GND  
+DIN - GPIO13  
+CS - GPIO15  
+CLK - GPIO14
